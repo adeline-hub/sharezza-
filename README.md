@@ -8,8 +8,8 @@ Maintenant que tu es appâté·e par GitHub, il est temps de créer le repo de t
 
 4. Modifie le <title> dans `index.html`, et fais un commit en mettant une description décrivant le changement en anglais (ex : Change title).
 
-5. Ajoute un  <h1> au <body> de `index.html`, et fais un commit en mettant une description décrivant le changement en anglais.
+5. Ajoute un  `<h1>` au `<body>` de `index.html`, et fais un commit en mettant une description décrivant le changement en anglais.
 
-6. Ajoute un  <h2> au <body> de `index.html`, et fais un commit en mettant une description décrivant le changement en anglais.
+6. Ajoute un  `<h2>` au `<body>` de `index.html`, et fais un commit en mettant une description décrivant le changement en anglais.
 
 7. Partage le lien vers ton repository en solution de ce challenge.
